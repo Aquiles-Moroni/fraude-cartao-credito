@@ -1,0 +1,13 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar checkpoints do Jupyter
+*.ipynb_checkpoints
+
+# Ignorar arquivos de sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
