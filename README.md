@@ -1,0 +1,2 @@
+⚠️ O arquivo do dataset: creditcard.csv não está incluído no repositório por exceder o limite de 100MB do GitHub.
+Para rodar o projeto, baixe o dataset original neste link: https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/input e coloque-o na pasta chamada data.
