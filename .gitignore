@@ -11,3 +11,5 @@ __pycache__/
 # Ignorar arquivos de sistema (Windows/macOS)
 .DS_Store
 Thumbs.db
+
+data/creditcard.csv
